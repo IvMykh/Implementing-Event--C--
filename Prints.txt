@@ -1,0 +1,15 @@
+Printing mail message by printer "Printer ONE"
+	From: Yarko
+	To: Ivan
+	Mail subject: Home_assignment
+
+Printing mail message by printer "Printer ONE"
+	From: Ostap
+	To: Volodya
+	Mail subject: Holidays
+
+Printing mail message by printer "Printer ONE"
+	From: Ivan
+	To: Nazar
+	Mail subject: Yesterday's_Film
+

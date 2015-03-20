@@ -1,0 +1,19 @@
+Message: 
+from - Yarko
+to - Ivan
+subject - Home_assignment
+
+Message:
+from - Ostap
+to - Volodya
+subject - Holidays
+
+Message:
+from - Serhiy
+to - Slavik
+subject - Programming
+
+Message:
+from - Ivan
+to - Nazar
+subject - Yesterday's_Film

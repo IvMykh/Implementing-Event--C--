@@ -1,0 +1,15 @@
+Faxing mail message by fax "Fax ONE"
+	From: Yarko
+	To: Ivan
+	Mail subject: Home_assignment
+
+Faxing mail message by fax "Fax ONE"
+	From: Ostap
+	To: Volodya
+	Mail subject: Holidays
+
+Faxing mail message by fax "Fax ONE"
+	From: Serhiy
+	To: Slavik
+	Mail subject: Programming
+
